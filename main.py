@@ -199,7 +199,7 @@ while True:
     elif "open telegram" in command:
         print("Opening telegram...\n")
         speak("Opening telegram...")
-        os.startfile(r"C:\Users\lenovo\AppData\Roaming\Telegram Desktop\Telegram.exe")
+        os.startfile(r"C:\Users\Telegram Desktop\Telegram.exe")
 
     elif "logout" in command:
         print("Your system will log out in 5 seconds!\n")
